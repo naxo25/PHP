@@ -1,0 +1,22 @@
+@font-face{ font-family:'Lato'; src: url('Lato-BlackItalic.ttf');}
+@font-face{ font-family:'LatoB'; src: url('Lato-Bold.ttf');}
+@font-face{ font-family:'audri'; src: url('Audrey/Audrey-NormalOblique.otf');}
+@font-face{ font-family:'Sans'; src: url('Open_Sans/OpenSans-Bold.ttf');}
+
+
+*{
+  font-size: 13.2px;
+  color: black;
+  font-family: "Lato";
+}
+
+p, tr {
+  line-height: 1em;
+}
+
+label {
+  font-size: 15.2px;
+  line-height: 1.5em;
+  font-family: "Lato";
+  color: black;
+}
