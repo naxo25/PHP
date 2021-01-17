@@ -1,7 +1,5 @@
 # Crud práctica
 
-![](./Crud Php.jpg)
-
 Manejo de stock en bodegas, ingreso de clientes, ingreso de compras por cliente registrado, envió de correo. 
 
 ## Herramientas
